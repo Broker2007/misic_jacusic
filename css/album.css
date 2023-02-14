@@ -15,3 +15,8 @@
         width:100%;  
     }
 }
+
+.button_music{
+    border: none;
+    background-color: white;
+}

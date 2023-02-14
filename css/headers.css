@@ -17,9 +17,12 @@ header .nav-link{
     color: gray;
 }
 
-header .nav-link:hover, .nav-link:focus{
+header .nav-link:hover{
     color: #bb3a1d;
 }
 header .nav-link:active{
-    color: #ffdb4d;
+    color: #d9b217;
+}
+header .nav-link:focus{
+    color:#0f0e0e
 }
